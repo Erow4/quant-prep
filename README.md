@@ -24,9 +24,9 @@ Books from the OG page -- things I want to run through but haven't yet:
 
 ## Videos 
 1. [Peak Algo Trading Full Course | Commodity Market Futures](https://www.youtube.com/watch?si=payanJI-4wxdODMI&v=rrbahhoePN4&feature=youtu.be)
-* Really solid video -- this was the first video I watched directly about high frequency trading.*
+* Really solid video -- this was the first video I watched directly about high frequency trading.
 3. [What is Quantitative Finance? 📈 Intro for Aspiring Quants](https://www.youtube.com/watch?v=JVtUcM1sWQw)
-* this had a really cool representation of using multidimensional graphs to compare stocks. Additionally the connection between having a portfolio of stocks to the mulitvariate normal distribution really resonated with me *
+* this had a really cool representation of using multidimensional graphs to compare stocks. Additionally the connection between having a portfolio of stocks to the mulitvariate normal distribution really resonated with me 
 
   
 # Notes from the OG account:

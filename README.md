@@ -11,8 +11,8 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 Books others have recommended but I haven't read yet:
 1. **Heard on the street** - looked like Cracking the Coding Interview but for quant, and I _detest_ that book.
 2. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
-3. **50 problems in Probability** - Didn't like this much: mix of brain teaser + probability, plus the questions felt very _loosely worded_ to me, as in their key element was their ambiguity in some cases, and not the mathematical prowess needed to solve them.
-4. **Mark Joshi** - Too broad to be very useful
+3. **50 problems in Probability** 
+4. **Mark Joshi** 
 6. **[Quantitative Primer](https://github.com/dwcoder/QuantitativePrimer/tree/master)** - Looks like a very good resource, but it wasn't doing the rounds when I interviewed, so I got to know about this recently.
 
 ## Mental Math

@@ -1,10 +1,10 @@
-## 16 July
-- Zetamac: 48
-- Optiver tradertest: 65
-- Solved some probability
-- Created this repo + the zetamac plugin
+## 18 July
+- Zetamac: 15
+- Reviewed Counting (from Stat110)
+- Forked this repo and set it up !
 
-## 17 July
-- Zetamac: 52
-- Tradertest 2 Optiver: 56
+## 18 July
+- Zetamac: ___
+- Tradertest 2 Optiver: ___
+- Review 
 - Probability TODO's from TODO.md

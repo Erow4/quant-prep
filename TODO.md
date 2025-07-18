@@ -1,6 +1,7 @@
 ## TODO
 
 * [ ] Arithmetic - **Limit to 45 minutes max and 30 min per session**
+* [ ] 10 Counting Problems and Review Monty Hall
 * [ ] [Glassdoor Quant Compilation](https://www.glassdoor.co.in/Interview/quant-interview-questions-SRCH_KO0,5_IP2.htm)
 * [ ] [Jerry Qin's List of Probability Questions](https://jerryqin.com/)
 * [ ] 50 problems in Probability - Finish up and do the rest

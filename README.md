@@ -1,6 +1,6 @@
 # quant-prep
 
-Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who was in turn, inspired by [Jerry Qin](https://jerryqin.com)), I decided to log my quant preparation as well. I've been putting a lot of work into this lately and thought that keeping a log of what I've accomplished should be helpful
+Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who was in turn, inspired by [Jerry Qin](https://jerryqin.com)), I decided to log my quant preparation as well. I thought that keeping a log of what I've accomplished / done to prepare should be helpful
 
 ## Books
 1. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654)** -- *In Progress*

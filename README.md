@@ -4,7 +4,8 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 
 ## Books
 1. **Stat110 Handbook** - Thank you to Prof. Blitz for this amazing class and textbook!
-2. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654)** - *In Progress*
+2. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
+3. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654)** - *In Progress*
 
 
 Books others have recommended but I haven't read yet:
@@ -12,7 +13,6 @@ Books others have recommended but I haven't read yet:
 2. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
 3. **50 problems in Probability** - Didn't like this much: mix of brain teaser + probability, plus the questions felt very _loosely worded_ to me, as in their key element was their ambiguity in some cases, and not the mathematical prowess needed to solve them.
 4. **Mark Joshi** - Too broad to be very useful
-5. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
 6. **[Quantitative Primer](https://github.com/dwcoder/QuantitativePrimer/tree/master)** - Looks like a very good resource, but it wasn't doing the rounds when I interviewed, so I got to know about this recently.
 
 ## Mental Math

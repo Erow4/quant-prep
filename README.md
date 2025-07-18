@@ -4,7 +4,7 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 
 ## Books
 1. **Stat110 Handbook** - Thank you to Prof. Blitz for this amazing class and textbook!
-2. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654)** -- *In Progress*
+2. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654)** - *In Progress*
 
 
 Books others have recommended but I haven't read yet:

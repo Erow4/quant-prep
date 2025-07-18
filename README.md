@@ -18,7 +18,7 @@ Books others have recommended but I haven't read yet:
 
 1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 10, peak of 12 on default settings as of 07/18
 
-#Notes from the OG account:
+# Notes from the OG account:
 
 3. [RankYourBrain](https://rankyourbrain.com/mental-math/) - has fractions/decimals, but I don't like the UI
 4. [RFQJobs](https://rfqjobs.com/practice/math/) - Really liked the Optiver test here and the Focus-Fractions and Focus-Decimals

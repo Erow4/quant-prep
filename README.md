@@ -8,7 +8,7 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 3. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
 
 
-Books from the OG page I want to run through but haven't yet:
+Books from the OG page -- things I want to run through but haven't yet:
 1. **Heard on the street** - looked like Cracking the Coding Interview but for quant, and I _detest_ that book.
 2. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
 3. **50 problems in Probability** 

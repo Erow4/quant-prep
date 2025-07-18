@@ -17,7 +17,7 @@ Books others have recommended but I haven't read yet:
 
 ## Mental Math
 
-1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 10, peak of 12 on default settings as of 07/18
+1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 10, peak of 14 on default settings as of 07/18
 
 # Notes from the OG account:
 

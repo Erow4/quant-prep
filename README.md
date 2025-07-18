@@ -1,28 +1,30 @@
 # quant-prep
 
-Inspired by [Jerry Qin](https://jerryqin.com), I decided to log my quant preparation as well. I've been going about it in an unstructured, indisciplined way so far, but have made progress (at the expense of other things), and thought that keeping a log of what I've accomplished should be helpful
-
-**UPDATE May 2025**: This is 3 years old at this point and sporadically updated - there may be better guides out there.
+Inspired by ____ (who was in turn, inspired by [Jerry Qin](https://jerryqin.com)), I decided to log my quant preparation as well. I've been putting a lot of work into this lately and thought that keeping a log of what I've accomplished should be helpful
 
 ## Books
+1. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654)** -- *In Progress*
 
-1. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
-2. **50 problems in Probability** - Didn't like this much: mix of brain teaser + probability, plus the questions felt very _loosely worded_ to me, as in their key element was their ambiguity in some cases, and not the mathematical prowess needed to solve them.
-3. **Mark Joshi** - Too broad to be very useful
-4. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
-5. **[Quantitative Primer](https://github.com/dwcoder/QuantitativePrimer/tree/master)** - Looks like a very good resource, but it wasn't doing the rounds when I interviewed, so I got to know about this recently.
 
-Books others have recommended but I didn't read:
+Books others have recommended but I haven't read yet:
 1. **Heard on the street** - looked like Cracking the Coding Interview but for quant, and I _detest_ that book.
+2. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
+3. **50 problems in Probability** - Didn't like this much: mix of brain teaser + probability, plus the questions felt very _loosely worded_ to me, as in their key element was their ambiguity in some cases, and not the mathematical prowess needed to solve them.
+4. **Mark Joshi** - Too broad to be very useful
+5. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
+6. **[Quantitative Primer](https://github.com/dwcoder/QuantitativePrimer/tree/master)** - Looks like a very good resource, but it wasn't doing the rounds when I interviewed, so I got to know about this recently.
 
 ## Mental Math
 
-1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 50, peak of 60 on default settings
-2. [RankYourBrain](https://rankyourbrain.com/mental-math/) - has fractions/decimals, but I don't like the UI
-3. [RFQJobs](https://rfqjobs.com/practice/math/) - Really liked the Optiver test here and the Focus-Fractions and Focus-Decimals
-4. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - ~~This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level~~ **EDIT**: The TradingInterview website changed since the last time I took the test, and the hard test moved [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/preset-hard-arithmetic/). This is a bit harder than the actual Optiver test I faced, which had MCQs. Fortunately, they updated their website with a more up-to-date version, which can be found [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/optiver-math-test/)
-5. [TraderMaths](https://www.tradermaths.com/math-tests) hard - decent, but again, UI is off what I should expect (ability to skim through questions makes it very easy to cherry pick easy ones to maximize score), so I don't do this much
-6. [Matiks](https://www.matiks.in/) - gave it a try after spotting it on LinkedIn. QuizUp (RIP) meets mental math. Quite fun, but not too many people yet (will change as more people get on it). My gut feel is most guests are bots/replays, but the experience is not bad and this is a decent substitute for the lack of people on the platform right now. Maybe not super relevant to trading per se, didn't see many division/big multiplication problems but the competition dopamine makes up for it.
+1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 10, peak of 12 on default settings as of 07/18
+
+#Notes from the OG account:
+
+3. [RankYourBrain](https://rankyourbrain.com/mental-math/) - has fractions/decimals, but I don't like the UI
+4. [RFQJobs](https://rfqjobs.com/practice/math/) - Really liked the Optiver test here and the Focus-Fractions and Focus-Decimals
+5. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - ~~This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level~~ **EDIT**: The TradingInterview website changed since the last time I took the test, and the hard test moved [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/preset-hard-arithmetic/). This is a bit harder than the actual Optiver test I faced, which had MCQs. Fortunately, they updated their website with a more up-to-date version, which can be found [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/optiver-math-test/)
+6. [TraderMaths](https://www.tradermaths.com/math-tests) hard - decent, but again, UI is off what I should expect (ability to skim through questions makes it very easy to cherry pick easy ones to maximize score), so I don't do this much
+7. [Matiks](https://www.matiks.in/) - gave it a try after spotting it on LinkedIn. QuizUp (RIP) meets mental math. Quite fun, but not too many people yet (will change as more people get on it). My gut feel is most guests are bots/replays, but the experience is not bad and this is a decent substitute for the lack of people on the platform right now. Maybe not super relevant to trading per se, didn't see many division/big multiplication problems but the competition dopamine makes up for it.
 
 ## More Puzzles/Problems
 

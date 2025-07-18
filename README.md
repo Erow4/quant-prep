@@ -21,6 +21,14 @@ Books from the OG page -- things I want to run through but haven't yet:
 
 *Note, I used the chrome extension [My Zetamac Stats](https://chromewebstore.google.com/detail/icfkboadjakpikgeijimiegeebfpfgji?utm_source=item-share-cb) to keep track of my progress*
 
+
+## Videos 
+1. [Peak Algo Trading Full Course | Commodity Market Futures](https://www.youtube.com/watch?si=payanJI-4wxdODMI&v=rrbahhoePN4&feature=youtu.be)
+* Really solid video -- this was the first video I watched directly about high frequency trading.*
+3. [What is Quantitative Finance? 📈 Intro for Aspiring Quants](https://www.youtube.com/watch?v=JVtUcM1sWQw)
+* this had a really cool representation of using multidimensional graphs to compare stocks. Additionally the connection between having a portfolio of stocks to the mulitvariate normal distribution really resonated with me *
+
+  
 # Notes from the OG account:
 
 3. [RankYourBrain](https://rankyourbrain.com/mental-math/) - has fractions/decimals, but I don't like the UI

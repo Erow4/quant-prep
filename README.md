@@ -1,6 +1,6 @@
 # quant-prep
 
-Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who was in turn, inspired by [Jerry Qin](https://jerryqin.com)), I decided to log my quant preparation as well. I thought that keeping a log of what I've accomplished / done to prepare should be helpful.
+Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who was in turn, inspired by [Jerry Qin](https://jerryqin.com)), I decided to log my quant preparation as well! I thought that keeping a log of what I've accomplished / done to prepare should be helpful.
 
 ## Books
 1. **Stat110 Handbook** - Thank you to Prof. Blitz for this amazing class and textbook!
@@ -8,7 +8,7 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 3. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - read this for market making
 
 
-Books others have recommended but I haven't read yet:
+Books from the OG page I want to run through but haven't yet:
 1. **Heard on the street** - looked like Cracking the Coding Interview but for quant, and I _detest_ that book.
 2. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
 3. **50 problems in Probability** 
@@ -29,7 +29,7 @@ Books others have recommended but I haven't read yet:
 6. [TraderMaths](https://www.tradermaths.com/math-tests) hard - decent, but again, UI is off what I should expect (ability to skim through questions makes it very easy to cherry pick easy ones to maximize score), so I don't do this much
 7. [Matiks](https://www.matiks.in/) - gave it a try after spotting it on LinkedIn. QuizUp (RIP) meets mental math. Quite fun, but not too many people yet (will change as more people get on it). My gut feel is most guests are bots/replays, but the experience is not bad and this is a decent substitute for the lack of people on the platform right now. Maybe not super relevant to trading per se, didn't see many division/big multiplication problems but the competition dopamine makes up for it.
 
-## More Puzzles/Problems
+## More Puzzles/Problems (Courtesy of OG)
 
 1. **[Brainstellar](https://brainstellar.com)** - good puzzles, but the hard ones are not so hard, and they finish up rather quickly.
 2. **[quantguide.io](http://quantguide.io/)** - looks like a newer and better brainstellar. Leetcode for quant. Problems organized by company. However, make sure to give as much decimal precision, or enter your answer as a fraction if it doesn't get accepted (eg [This is a question](https://www.quantguide.io/questions/car-question-i) which doesn't take decimal answers)
@@ -69,7 +69,4 @@ A (non-exhaustive) list of very common problems to be familiar with:
 That's about it, I guess.
 
 ## Hindsight
-
-~~Might probably publish a blog post on this, along with some learnings in the whole process~~ Blog Post is up, check it out [here](https://aniruddhadeb.com/articles/2022/intern-inferno/)!
-
-![zetamac scores](zetamac_plot.png)
+The original creater of this guide ended up as an Optiver SWE intern and posted a blog [here](https://aniruddhadeb.com/articles/2022/intern-inferno/)

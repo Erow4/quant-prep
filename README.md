@@ -70,8 +70,4 @@ That's about it, I guess.
 
 ~~Might probably publish a blog post on this, along with some learnings in the whole process~~ Blog Post is up, check it out [here](https://aniruddhadeb.com/articles/2022/intern-inferno/)!
 
-**TL;DR**: I'll be an SWE intern at Optiver this summer! :)
-
 ![zetamac scores](zetamac_plot.png)
-
-![Intern search](intern-search.png)

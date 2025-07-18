@@ -3,7 +3,7 @@
 - Reviewed Counting (from Stat110)
 - Forked this repo and set it up !
 
-## 18 July
+## 19 July
 - Zetamac: ___
 - Tradertest 2 Optiver: ___
 - Review 

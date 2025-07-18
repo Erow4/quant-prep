@@ -9,7 +9,7 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 
 
 Books from the OG page -- things I want to run through but haven't yet:
-1. **Heard on the street** - looked like Cracking the Coding Interview but for quant, and I _detest_ that book.
+1. **Heard on the street** - looked like Cracking the Coding Interview but for quant
 2. **Xinfeng Zhou** - Quant Finance Interviews, aka the little green book. Amazing book. Especially the brainteasers and Probability section. Must do
 3. **50 problems in Probability** 
 4. **Mark Joshi** 

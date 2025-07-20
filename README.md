@@ -79,4 +79,4 @@ A (non-exhaustive) list of very common problems to be familiar with:
 That's about it, I guess.
 
 ## Hindsight
-The original creater of this guide ended up as an Optiver SWE intern and posted a blog [here](https://aniruddhadeb.com/articles/2022/intern-inferno/)
+The original creater of this guide ended up as an Optiver SWE intern and posted a blog about her recruiting process [here](https://aniruddhadeb.com/articles/2022/intern-inferno/)

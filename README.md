@@ -5,7 +5,7 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 ## Books
 1. **Stat110 Handbook** - Thank you to Prof. Blitz for this amazing class and textbook!
 3. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - skimmed the first part + practice questions for review, primarily used for market making practice
-4. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History]((https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654))** - *Book about the flash crash of 2010, honestly started for pleasure-reading, really interesting so far --  In Progress*
+4. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654))** - *Book about the flash crash of 2010, honestly started for pleasure-reading, really interesting so far --  In Progress*
 5. **Akuna Options 101 Course** - *Part 1 Complete -- In Progress*
 6. 
 

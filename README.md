@@ -12,7 +12,6 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 
 Books from the OG page -- things I want to run through but haven't yet:
 1. **Heard on the street** - looked like Cracking the Coding Interview but for quant
-
 3. **50 problems in Probability** 
 4. **Mark Joshi** 
 6. **[Quantitative Primer](https://github.com/dwcoder/QuantitativePrimer/tree/master)** - Looks like a very good resource, but it wasn't doing the rounds when I interviewed, so I got to know about this recently.

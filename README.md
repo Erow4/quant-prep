@@ -7,7 +7,7 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 3. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - skimmed the first part + some practice questions, mostly read for market making
 4. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654))** - *About the flash crash of 2010, honestly started for pleasure-reading -- really interesting so far --  In Progress*
 5. **Akuna Options 101 Course** - *Part 1 Complete -- In Progress*
-2. **Xinfeng Zhou** - Quant Finance Interviews, aka the green book! This book is awesome. The brainteasers reminded me of the proofs I did in *CS20: Discrete Mathmatics for CS* and *Stat110* helped me prep for the probability section. *Stat131: Time Series and Prediction* covered time series modeling for financial data like Martingale Differences. *CS50* helped me get an early (but general and less in-depth) grasp of the algorithms part. Overall, invaluable resource.
+2. **Xinfeng Zhou** - Quant Finance Interviews, aka the green book! This book is awesome. The brainteasers reminded me of the proofs I did in *CS20: Discrete Mathmatics for CS* and *Stat110* helped me prep for the probability section. *Stat131: Time Series and Prediction* covered time series modeling for financial data (e.g., martingale difference -- see my final project for this class in a seperate repo). *CS50* helped me get an early (but general and less in-depth) grasp of the algorithms part. Overall, invaluable resource.
 
 
 Books from the OG page -- things I want to run through but haven't yet:

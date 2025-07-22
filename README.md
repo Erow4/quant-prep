@@ -67,7 +67,9 @@ Books from the OG page -- things I want to run through but haven't yet:
 
 A (non-exhaustive) list of very common problems to be familiar with:
 * Monty Hall
+
 *Planning to use the Monty Hall Stat110 review session in which the TFs went over a multitude of spins on the classic MH problem*
+
 * Tying ends of Noodles together, expected value
 * Random Walks
 * finding Expected first return time in Markov Chain (esp when No stationary distrib exists)

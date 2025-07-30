@@ -2,9 +2,8 @@
 
 * [x] Arithmetic - **Limit to 45 minutes max and 30 min per session**
 * [x] 10 Counting Problems and Review Monty Hall
-* [ ] Upload Past CS Projects to Github from Gradescope
+* [ ] Xinfeng Zhou - detailed review, chapt 4 + skim finance
 * [ ] [Jerry Qin's List of Probability Questions](https://jerryqin.com/)
-* [ ] Xinfeng Zhou - detailed review, chapt 2 + skim finance
 * [ ] 50 problems in Probability - Finish up and do the rest
 * [ ] [Bracketology 101](https://www.janestreet.com/puzzles/bracketology-101-index/)
 * [ ] [Candy Collectors](https://www.janestreet.com/puzzles/candy-collectors-index/)

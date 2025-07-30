@@ -1,6 +1,6 @@
 ## TODO
 
-* [ ] Arithmetic - **Limit to 45 minutes max and 30 min per session**
+* [x] Arithmetic - **Limit to 45 minutes max and 30 min per session**
 * [x] 10 Counting Problems and Review Monty Hall
 * [ ] Upload Past CS Projects to Github from Gradescope
 * [ ] [Jerry Qin's List of Probability Questions](https://jerryqin.com/)

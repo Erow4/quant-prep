@@ -20,7 +20,7 @@ Books from the OG page -- things I want to run through but haven't yet:
 
 ## Mental Math
 
-1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 33, peak of 45 on default settings as of 07/30
+1. [Zetamac](https://arithmetic.zetamac.com) - baseline of 35, peak of 45 on default settings as of 08/24
 
 *Note, I used the chrome extension [My Zetamac Stats](https://chromewebstore.google.com/detail/icfkboadjakpikgeijimiegeebfpfgji?utm_source=item-share-cb) to keep track of my progress*
 

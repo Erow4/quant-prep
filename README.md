@@ -4,10 +4,11 @@ Inspired by [@Aniruddha-Deb](https://github.com/Aniruddha-Deb/quant-prep) (who w
 
 ## Books
 1. **Stat110 Handbook** - Thank you to Prof. Blitz for this amazing class and textbook!
-3. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - skimmed the first part + some practice questions, mostly read for market making
-4. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654))** - About the flash crash of 2010, honestly started for pleasure-reading, really interesting so far --  *In Progress*
-5. **Akuna Options 101 Course** - Part 1 Complete -- *In Progress*
 2. **Xinfeng Zhou** - Quant Finance Interviews, aka the green book! This book is awesome.
+4. **[Jane Street's Probability and Markets Guide](https://www.janestreet.com/probability-markets/)** - skimmed the first part + some practice questions, mostly read for market making
+5. **[Flash Crash: A Trading Savant, a Global Manhunt, and the Most Mysterious Market Crash in History](https://www.amazon.com/Flash-Crash-Trading-Manhunt-Mysterious/dp/0385543654))** - About the flash crash of 2010, honestly started for pleasure-reading, really interesting so far --  *In Progress*
+6. **Akuna Options 101 Course** - Part 1 Complete -- *In Progress*
+
 
 The brainteasers reminded me of the proofs I did in *CS20: Discrete Mathmatics for CS* and *Stat110* helped me prep for the probability section. *Stat131: Time Series and Prediction* covered time series modeling for financial data (e.g., martingale difference -- see my final project for this class in a seperate repo). *CS50* helped me get an early (but general and less in-depth) grasp of the algorithms part. Overall, invaluable resource.
 
@@ -24,23 +25,22 @@ Books from the OG page -- things I want to run through but haven't yet:
 
 *Note, I used the chrome extension [My Zetamac Stats](https://chromewebstore.google.com/detail/icfkboadjakpikgeijimiegeebfpfgji?utm_source=item-share-cb) to keep track of my progress*
 
+2. [OpenQuant](https://openquant.co/math-game) -- Used this to practice the Optiver 80 in 8.
 
 ## Videos 
 1. [Peak Algo Trading Full Course | Commodity Market Futures](https://www.youtube.com/watch?si=payanJI-4wxdODMI&v=rrbahhoePN4&feature=youtu.be)
-* Really solid video -- this was the first video I watched directly about high frequency trading.
-3. [What is Quantitative Finance? 📈 Intro for Aspiring Quants](https://www.youtube.com/watch?v=JVtUcM1sWQw)
-* this had a really cool representation of using multidimensional graphs to compare stocks. Additionally the connection between having a portfolio of stocks to the mulitvariate normal distribution really resonated with me 
-
+* Really solid video -- this was the first video I watched directly pertaining to HFT.
+2. [What is Quantitative Finance? 📈 Intro for Aspiring Quants](https://www.youtube.com/watch?v=JVtUcM1sWQw)
+* this had a really cool representation of using multidimensional graphs to compare stocks. Additionally the the way they visualized the connection between having a portfolio of stocks to the mulitvariate normal distribution really resonated.
+3. **Completed a series of courses from Wharton Online and recieved certification accordingly (see linkedin)**
   
-# Notes from the OG account:
-
-3. [RankYourBrain](https://rankyourbrain.com/mental-math/) - has fractions/decimals, but I don't like the UI
+# Notes from the original fork:
 4. [RFQJobs](https://rfqjobs.com/practice/math/) - Really liked the Optiver test here and the Focus-Fractions and Focus-Decimals
 5. [tradinginterview](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/quiz-hard-arithmetic/) Hard - ~~This is probably the closest to the optiver test from what I can make out: sequential flow, +/-1 marking, and questions of the same format and same level~~ **EDIT**: The TradingInterview website changed since the last time I took the test, and the hard test moved [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/preset-hard-arithmetic/). This is a bit harder than the actual Optiver test I faced, which had MCQs. Fortunately, they updated their website with a more up-to-date version, which can be found [here](https://www.tradinginterview.com/courses/mental-arithmetic/quizzes/optiver-math-test/)
 6. [TraderMaths](https://www.tradermaths.com/math-tests) hard - decent, but again, UI is off what I should expect (ability to skim through questions makes it very easy to cherry pick easy ones to maximize score), so I don't do this much
 7. [Matiks](https://www.matiks.in/) - gave it a try after spotting it on LinkedIn. QuizUp (RIP) meets mental math. Quite fun, but not too many people yet (will change as more people get on it). My gut feel is most guests are bots/replays, but the experience is not bad and this is a decent substitute for the lack of people on the platform right now. Maybe not super relevant to trading per se, didn't see many division/big multiplication problems but the competition dopamine makes up for it.
 
-## More Puzzles/Problems (Courtesy of OG)
+## More Puzzles/Problems (Also courtesy of the original fork)
 
 1. **[Brainstellar](https://brainstellar.com)** - good puzzles, but the hard ones are not so hard, and they finish up rather quickly.
 2. **[quantguide.io](http://quantguide.io/)** - looks like a newer and better brainstellar. Leetcode for quant. Problems organized by company. However, make sure to give as much decimal precision, or enter your answer as a fraction if it doesn't get accepted (eg [This is a question](https://www.quantguide.io/questions/car-question-i) which doesn't take decimal answers)
@@ -69,9 +69,7 @@ Books from the OG page -- things I want to run through but haven't yet:
 
 A (non-exhaustive) list of very common problems to be familiar with:
 * Monty Hall
-
-*Planning to use the Monty Hall Stat110 review session in which the TFs went over a multitude of spins on the classic MH problem*
-
+- the Monty Hall Stat110 review session in which the TFs went over a multitude of extensions to the classic MH problem
 * Tying ends of Noodles together, expected value
 * Random Walks
 * finding Expected first return time in Markov Chain (esp when No stationary distrib exists)
@@ -80,7 +78,5 @@ A (non-exhaustive) list of very common problems to be familiar with:
 * Birthday Problems
 * Three Drawer Paradox (and variations - tie, two envelope, etc)
 
-That's about it, I guess.
-
 ## Hindsight
-The original creater of this guide ended up as an Optiver SWE intern and posted a blog about her recruiting process [here](https://aniruddhadeb.com/articles/2022/intern-inferno/)
+The original creater of this guide landed a SWE intern role at Optiver! In effort to demonstrate full credit to her -- she posted a blog about her recruiting process [here](https://aniruddhadeb.com/articles/2022/intern-inferno/)
